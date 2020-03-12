@@ -1,0 +1,282 @@
+[33mcommit 4862c9cf56b64fda051e76e6d2ff88dfd9009292[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: dca6d2d f685775
+Author: Tseringkhando <candy.khando@gmail.com>
+Date:   Tue Jul 9 08:37:59 2019 +0545
+
+    Merge branch 'master' of https://github.com/RojenTmg/ems
+
+[33mcommit dca6d2d3063b65afcf04cb4aa51babe51a4d5579[m
+Author: Tseringkhando <candy.khando@gmail.com>
+Date:   Tue Jul 9 08:37:26 2019 +0545
+
+    progress bar and percentage calculation
+
+[33mcommit f6857759ddde97ba46e1f279e8569d21df6994e3[m
+Merge: c5cdc52 b622d50
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Mon Jul 8 18:25:32 2019 +0545
+
+    Archiving Employee
+
+[33mcommit c5cdc527498f91faa3e149c36463d2294461799d[m
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Mon Jul 8 18:22:27 2019 +0545
+
+    archiving employee
+
+[33mcommit e426fd004fd5ca30f74078a520dd70c2028b963f[m
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Mon Jul 8 17:27:56 2019 +0545
+
+    Archiving Registered Staff
+
+[33mcommit b622d50d0bef563cb868cb5767b0c1a8edbb0a20[m
+Merge: c8c2dfd 192a1b8
+Author: Tseringkhando <candy.khando@gmail.com>
+Date:   Mon Jul 8 15:11:01 2019 +0545
+
+    Merge branch 'master' of https://github.com/RojenTmg/ems
+
+[33mcommit c8c2dfdc4b7217663a62a8610170a40a6994d1f4[m
+Author: Tseringkhando <candy.khando@gmail.com>
+Date:   Mon Jul 8 15:09:59 2019 +0545
+
+    forms corrected, added done button, shown employee name
+
+[33mcommit b2fab5eeeaf03911583460cee94839760dffc81a[m
+Author: Tseringkhando <candy.khando@gmail.com>
+Date:   Sun Jul 7 20:23:07 2019 +0545
+
+    changes
+
+[33mcommit 192a1b8e20516a4c1de210330883a35f00889df7[m
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Sun Jul 7 16:18:56 2019 +0545
+
+    displaying registered staff
+
+[33mcommit 2d3f73d5980a6672fb41be10a4e23fcc9c5e93df[m
+Author: Tseringkhando <candy.khando@gmail.com>
+Date:   Sat Jul 6 23:47:51 2019 +0545
+
+    radio buttons corrected
+
+[33mcommit 00be1a4573015af3975a701cb7ecb709520937b1[m
+Author: Tseringkhando <candy.khando@gmail.com>
+Date:   Sat Jul 6 23:26:51 2019 +0545
+
+    address and contact added
+
+[33mcommit e59eaf3b627615ec566a1bae093c858706ee082d[m
+Author: Tseringkhando <candy.khando@gmail.com>
+Date:   Sat Jul 6 21:52:28 2019 +0545
+
+    db extract modified
+
+[33mcommit a038118eea9fe7e0064b7f499f6b01a0193f41a0[m
+Author: Tseringkhando <candy.khando@gmail.com>
+Date:   Sat Jul 6 21:29:10 2019 +0545
+
+    add staff working
+
+[33mcommit f490ade46082043fe2b96932d8e12ee94e04625f[m
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Fri Jul 5 14:21:30 2019 +0545
+
+    new files added
+
+[33mcommit a9eb826018d3bcc3c61663380c4eac1a36bb2b69[m
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Fri Jul 5 14:17:34 2019 +0545
+
+    all old file deleted
+
+[33mcommit 69ca419ba444a6eb79a2f2ad440696b5357a3b44[m
+Merge: 5d542db 7eaafce
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Thu Jul 4 23:11:57 2019 +0545
+
+    Merge branch 'master' of https://github.com/RojenTmg/ems
+
+[33mcommit 5d542db11579fb76af48c622bb9e5847c6d80514[m
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Thu Jul 4 23:09:15 2019 +0545
+
+    dynamic employee login
+    
+    user can login using their ID and the default password is (2letters of firstname+2lettersofsurname+'123') [all lowercase]
+    
+    They can also update their profile by logging in
+
+[33mcommit 7eaafce736c0baf7e662223523219b414d2df58d[m
+Author: Tseringkhando <candy.khando@gmail.com>
+Date:   Thu Jul 4 21:24:46 2019 +0545
+
+    login , logout and form updated
+
+[33mcommit e6aec9cb291a621e0877da658a333d65a45f6bc8[m[33m ([m[1;31morigin/physio[m[33m)[m
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Thu Jul 4 16:25:51 2019 +0545
+
+    minor changes for rojen
+
+[33mcommit 0c67793ddce7103f332789218541f475c75538ca[m
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Thu Jul 4 16:04:30 2019 +0545
+
+    added jquery
+
+[33mcommit 420d94d9355cb5498d9ebd39fa40721ba2592d27[m
+Merge: a6d31ea 61988d4
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Thu Jul 4 15:54:10 2019 +0545
+
+    pop-up message 1
+
+[33mcommit a6d31eaa333df5d1196486b9b655a0b68a83e588[m
+Merge: d707ab0 21f52c8
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Thu Jul 4 15:50:55 2019 +0545
+
+    pop-up message
+
+[33mcommit 61988d4091692e901d679ce2f9cb1c03f4c4f24b[m
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Thu Jul 4 15:39:57 2019 +0545
+
+    validation implemented on all tabs
+
+[33mcommit d707ab08d0d3ec8ef712d438d1f86797a828cafc[m
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Thu Jul 4 15:09:40 2019 +0545
+
+    anonymous
+
+[33mcommit 21f52c8f6a7b4cb4348dd16fc2878bda68d4028a[m
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Thu Jul 4 15:03:43 2019 +0545
+
+    minor changes in tab-style template
+
+[33mcommit fefe120806baeec60ec1f1cb7322023f6b12946f[m
+Merge: 9cf34b1 3ff126c
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Thu Jul 4 14:15:07 2019 +0545
+
+    Merge branch 'master' of https://github.com/RojenTmg/ems
+
+[33mcommit 3ff126ce6e852b7852203b7d0240613ab5c0422e[m
+Merge: 6cfd3bd ff2b0fd
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Thu Jul 4 13:48:52 2019 +0545
+
+    Merge branch 'master' of https://github.com/RojenTmg/ems
+
+[33mcommit 6cfd3bdcf19c80c9f8c6ac7b4c5fd3a5aaf5da27[m
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Thu Jul 4 13:46:25 2019 +0545
+
+    error validation templating
+
+[33mcommit 9cf34b1abd5b0346fd12beed9bacca500ca754d4[m
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Thu Jul 4 13:43:14 2019 +0545
+
+    horizontal tab form
+
+[33mcommit ff2b0fdb6a714a8b7434f4a1970df8cddfc2bb4a[m
+Author: Tseringkhando <candy.khando@gmail.com>
+Date:   Thu Jul 4 12:45:05 2019 +0545
+
+    new database
+
+[33mcommit ede5723e622f4a59db865a0f21c02ef95efab157[m
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Thu Jul 4 10:56:51 2019 +0545
+
+    sql file added to sql folder
+
+[33mcommit f42ef9c03971b2636626bd8a64b0599aa4ea1859[m
+Merge: dc644bc b105831
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Thu Jul 4 10:19:20 2019 +0545
+
+    Merge branch 'master' of https://github.com/RojenTmg/ems
+
+[33mcommit dc644bc51b8a9cc1e3c843a81f8fda3c5113d8d6[m
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Thu Jul 4 10:18:00 2019 +0545
+
+    minor Login changes
+
+[33mcommit b1058318bf44b091fab16487789d7c3dd3a62b25[m
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Thu Jul 4 10:14:54 2019 +0545
+
+    routes and config changed
+
+[33mcommit 31f0dc06ee9911a8d68b9e09e3590df43810a4b3[m
+Merge: 440edaa 265a969
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Thu Jul 4 10:08:26 2019 +0545
+
+    Merge branch 'master' of https://github.com/RojenTmg/ems
+
+[33mcommit 440edaa40139e8a7eb3469a77dafab034facc72d[m
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Thu Jul 4 10:06:24 2019 +0545
+
+    single ems
+
+[33mcommit dd4b9c93b994e6994a0c869a1495606459811797[m
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Thu Jul 4 09:58:42 2019 +0545
+
+    single ems
+
+[33mcommit 265a969274e035b2e349c6e0645106431e1135fa[m
+Author: Tseringkhando <candy.khando@gmail.com>
+Date:   Thu Jul 4 09:26:40 2019 +0545
+
+    login in controller and view modified...
+    validate login in model modified.
+
+[33mcommit 2e70b091b93535a374b2c9da0ff5052b8a635a88[m
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Wed Jul 3 22:45:31 2019 +0545
+
+    Registration form completed as per template
+    
+    employee table database file is also uploaded along with this
+
+[33mcommit 9c5620569d0e343b9f23fa68308a17f1e4c82c77[m
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Wed Jul 3 22:14:49 2019 +0545
+
+    Nationality added
+
+[33mcommit 87263c29567e12d2c84dcd030d906b1129379dcc[m
+Author: Damodar Bhattarai <33388995+damodar-bhattarai@users.noreply.github.com>
+Date:   Wed Jul 3 19:51:09 2019 +0545
+
+    Update Admin.php
+    
+    testing
+
+[33mcommit 5e20ec789179aca3846f4d33bcf49a5ac65331d9[m
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Wed Jul 3 19:36:54 2019 +0545
+
+    one update profile
+
+[33mcommit b7c3f85ccb4fc624c85d587e783615279e497d9b[m
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Wed Jul 3 19:34:21 2019 +0545
+
+    two update profile
+
+[33mcommit 5541f093317c1067d698090a0f4ee269f5be8643[m
+Author: RojenTmg <35497379+RojenTmg@users.noreply.github.com>
+Date:   Wed Jul 3 19:28:30 2019 +0545
+
+    initial commit
